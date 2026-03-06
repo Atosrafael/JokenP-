@@ -47,4 +47,5 @@ jokenpo/
 
 <h3>📸 Previews</h3>  
 
-src=
+<img src="imagem.png">
+
