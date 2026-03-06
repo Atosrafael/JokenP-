@@ -45,6 +45,10 @@ jokenpo/
 
 - Papel ✋ vence Pedra ✊
 
+ <h3>⚙️ Como Executar o Projeto</h3>  
+
+ https://atosrafael.github.io/JokenP-/
+
 <h3>📸 Previews</h3>  
 
 <img src="imagem.png">
